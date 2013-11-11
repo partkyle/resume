@@ -1,107 +1,90 @@
-Christophe-Marie Duquesne
-=========================
+Kyle Partridge
+==============
+
 
 * * * * *
 
-  Specialties: C++, Python, Linux, Operations Research  
-   Doctor in Computer Science and Mathematics  
-   French, willing to relocate
+  I am a developer that is passionante about building systems as
+  simple as possible to solve the problem at hand.
+
 
 * * * * *
 
-Corporate Experience
---------------------
+Work Experience
+---------------
 
-2009-2012
-    PhD in Operations Research with Amadeus (Sophia Antipolis, France).
+2011 - Now
+    SendGrid
 
-    Researched how to assign aircraft on an airline network in the most
-    efficient way. I authored several projects, including a C++ solver,
-    a Python suite of 20+ command line tools, and Hadoop data mining
-    scripts. I also worked as a teaching assistant at the university,
-    further improving my communication and public speaking skills.
+    -   Web development in Symfony 1.4
+    -   Assisted in a partial migration to a Rails front end
+    -   Internal Api development using Python and Twistd
+    -   Maintenance of legacy perl systems
+    -   Experimental work with HBase and Cassandra
+    -   Assisted in a new approach to the front end architecture,
+        utilizing Ember.js and RESTful APIs
+    -   Heavy focus on unit testing, integration testing, and capacity
+        testing for systems with high traffic
+    -   Agile / Scrum environment with 2 week sprints
 
-2008 (3 months)
-    Internship at Rio Tinto Alcan (Clermont Ferrand, France).
+2009 - 2011
+    Pacific Industrial Contractor Screening PICS
 
-    Co-authored a C++ library for optimizing the revenue of a metal
-    factory. This work was published in the corporate journal of the
-    company.
+    -   Worked with a small team of 3-5 developers
+    -   Java EE development using Sprint, Struts 2, Hibernate, Maven
+        and Tomcat
+    -   Responsible for a majority of the dynamic web development using
+        jQuery, HTML and CSS
+    -   Responsible for deployments and emergency maintenance of the
+        production infrastructure: 3 web servers and 1 database server
 
-2007 (3 months)
-    Internship at GE Healthcare (Paris, France).
+2008
+    Internship at First American CoreLogic
 
-    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
+    -   Java EE development using WebLogic
+    -   Implemented a layered mapping feature to display real estate
+        data using Microsoft Virtual Earth.
+    -   Trained new team members on the codebase for the project
+    -   Agile / Scrum environment with 2 week sprints
 
-Selected Open Source Contributions
-----------------------------------
-
-Python
-    Contributor to pulp-or, a linear programming Python library. Author
-    of small tools, like michel, a command line program providing
-    bidirectionnal synchronization of google tasks with text files.
-
-C++
-    Author of yaposib, a Python binding to COIN-OSI that is now
-    supported by pulp-or.
-
-C
-    Author of lazylpsolverlibs, a set of proxy libraries targeting
-    cplex, gurobi and xpress. I also started writing sharebox, a
-    distributed FUSE file system based on git.
-
-Java
-    Author of talkmyphone, an android application allowing phone control
-    via gtalk. It had 10.000+ downloads, and was forked 50 times. It was
-    then successfully handed over to other developers.
-
-Misc
-    Lua, Ada, Bash, Makefile, m4, autotools, cmake… See my github
-    résumé. My kudorank on ohloh is 9, among the top 2% of opensource
-    developers.
-
-Linux
-    My daily operating system: I blog about it sometimes.
 
 Education
 ---------
 
-2009-2012
-    PhD in Mathematics and Computer Science at G-SCOP Laboratory
-    (Grenoble, France).
+2004 - 2008
+    California State University, Long Beach
 
-    Title: Integration of Fleet Deployment and of Passenger Service in
-    Airline Schedule Management. Done at Amadeus, in the Operation
-    Research team led by Semi Gabteni. Advisors: Denis Naddef, Olivier
-    Briant. Defended in January 2013.
+    -   B.S. Computer Science
+    -   Cumulative GPA: 3.8; Major GPA: 4.0
+    -   Graduated Magna Cum Laude
 
-2005-2009
-    MS in Computer Science in ENSIMAG (Grenoble, France).
 
-    Top French school of Applied Mathematics and Computer Science with
-    highly selective recruitment.
 
-2002-2005
-    Preparatory classes in Lycée Thiers (Marseille, France).
 
-    Mathematics and Physics courses before a national competitive
-    examination to Grandes Écoles.
+Skills
+------
 
-Activities and interests
-------------------------
+Languages
+    Java, Python, Ruby, javascript, HTML, CSS
 
-Hobbies
-    I like travelling. I backpacked in 13 countries in Eastern Europe
-    and South East Asia.
+Python
+    Twistd, Gevent, Gunicorn, Twistd
 
-Sports
-    Running, Cycling, Hiking. I also played rugby union for 7 years.
+Ruby
+    Rails, Sinatra
 
-Activities
-    I was the president of the grand cercle, one of the largest French
-    campus student associations (5.000 members) during university.
+Perl
+    AnyEvent
+
+OS's
+    Linux (Ubuntu, CentOS), Mac OS X, Windows XP/Vista/7
+
+
 
 * * * * *
 
-  chmd@chmd.fr • +336 84 14 26 82 • 28 years old  
-   275, chemin du Petit Castel - 13100 Aix en Provence, FRANCE
+  partkyle@gmail.com • 562.458.1357  
+  207 Backs Ln Apt G, Placentia CA, 92870
+
+
+
